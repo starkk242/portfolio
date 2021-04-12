@@ -1106,21 +1106,17 @@ header .logo {
 	float: left;
 	margin-left: 20px;
 	margin-right: 50px;
-	margin-top: 25px;
+	margin-top: 20px;
 	position: relative;
 }
 header .logo a {
 	display: block;
-	margin: 0;
-	padding: 0;
 	border: none;
-	font: 0/0 a;
-	text-shadow: none;
-	color: transparent;
+	font-family: "poppins-medium", sans-serif;
+	font-size: 22px;
+	color: #FFF;
 	width: 92px;
 	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 92px 15px;
 }
 
 /**
